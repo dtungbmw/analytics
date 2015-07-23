@@ -1,4 +1,4 @@
-package com.programmingfree.springservice;
+package com.gcn.pm;
 
 import java.util.List;
 

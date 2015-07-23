@@ -1,4 +1,4 @@
-package com.programmingfree.springservice;
+package com.gcn.pm;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
